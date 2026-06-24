@@ -14,6 +14,7 @@ A Python simulator of projectile  motion using real physics and trigonometry.
 
 ## Example Results 
 - Speed:4000 m/s, Angle: 70 -> Distance: 1050 km, Height: 722 km
+![Projectile-motion-simulator](projectile_graph.png)
 
 ## Technologies
 - Python 3
